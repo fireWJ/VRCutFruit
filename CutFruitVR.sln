@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutFruitVR", "Assembly-CSharp.csproj", "{F6C465A9-F5A7-CB4C-44DF-50A3F02640BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutFruitVR", "Assembly-CSharp-firstpass.csproj", "{8169901B-CB5F-F686-3E37-FD49D457A983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutFruitVR", "Assembly-CSharp-Editor.csproj", "{939B4558-62C6-1F80-3B57-76C45E00A760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C465A9-F5A7-CB4C-44DF-50A3F02640BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C465A9-F5A7-CB4C-44DF-50A3F02640BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C465A9-F5A7-CB4C-44DF-50A3F02640BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C465A9-F5A7-CB4C-44DF-50A3F02640BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8169901B-CB5F-F686-3E37-FD49D457A983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8169901B-CB5F-F686-3E37-FD49D457A983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8169901B-CB5F-F686-3E37-FD49D457A983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8169901B-CB5F-F686-3E37-FD49D457A983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939B4558-62C6-1F80-3B57-76C45E00A760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939B4558-62C6-1F80-3B57-76C45E00A760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939B4558-62C6-1F80-3B57-76C45E00A760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939B4558-62C6-1F80-3B57-76C45E00A760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
